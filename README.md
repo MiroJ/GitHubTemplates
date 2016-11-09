@@ -6,7 +6,7 @@ you are planning to publish it on a public repo like GitHub.
 
 ---------------------------------------
 
-See the [change log](CHANGELOG.md) for changes and road map.
+See the [commit history](https://github.com/MiroJ/GitHubTemplates/commits/master) for changes.
 
 ## Folders
 
