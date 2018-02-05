@@ -26,4 +26,4 @@ Add more subfolders, similar to [/Basic](/Basic), with your suggested sets of te
 Create a pull request after you what like you have done.
 
 ## License
-[Apache 2.0](LICENSE)
+Read the full license [here](LICENSE.md)
