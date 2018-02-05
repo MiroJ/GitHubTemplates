@@ -1,0 +1,18 @@
+# License
+
+##### Copyright (c) {year} {organization} <[licensing@organization.com](licensing@organization.com)>
+
+##### All Rights Reserved
+
+All information contained herein is, and remains
+the property of My Company and its suppliers,
+if any. The intellectual and technical concepts contained
+herein are proprietary to My Company and its suppliers, and 
+may be covered by U.S. and Foreign Patents, patents in process, 
+and are protected by trade secret or copyright law.
+
+Unauthorized copying or distribution of this project as a whole or 
+any parts and files of it via any medium is strictly forbidden 
+unless prior written permission is obtained from My Company.
+
+##### Proprietary and confidential
