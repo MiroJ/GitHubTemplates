@@ -1,12 +1,12 @@
-# GitHubTemplates
+# GitHub Templates
 
 This repo contains template files to add to your projects if you upload them to source code repositories.
 Use these files to make your project easy to understand, especially when you have many people working or
 you are planning to publish it on a public repo like GitHub.
 
-**IMPORTANT!** Do your due diligence or seek legal advice that all statements in the license files are suitable and 
-correct in your case. I or any of the other contributors do not hold any responsibility for any demage or harm 
-you may have recieved by using them. These files are examples for you to build up on.
+**IMPORTANT!** Do your due diligence and seek legal advice that all statements in the license files are suitable, 
+correct, and appropriate in your case. I or any of the other contributors do not hold any responsibility for any 
+demage or harm you may have recieved by using them. These files are examples for you to build up on.
 
 ---------------------------------------
 
